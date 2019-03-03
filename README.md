@@ -7,15 +7,15 @@ Below are verious UI elements and steps on how to use the application
 
 
 The User enters the data in text field as shown in figure below.
-![alt text](https://github.com/SanalLisboa/Project-Images/blob/master/Untitled1.png)
+<center>![alt text](https://github.com/SanalLisboa/Project-Images/blob/master/Untitled1.png)</center>
 
 
 When user clicks submit button when text field is empty following screen appeares
-![alt text](https://github.com/SanalLisboa/Project-Images/blob/master/Untitled5.png)
+<center>![alt text](https://github.com/SanalLisboa/Project-Images/blob/master/Untitled5.png)</center>
 
 
 User can insert string in following way
-![alt text](https://github.com/SanalLisboa/Project-Images/blob/master/Untitled2.png)
+<center>![alt text](https://github.com/SanalLisboa/Project-Images/blob/master/Untitled2.png)</center>
 
 
 When user clicks the submit button following screen appeares.
