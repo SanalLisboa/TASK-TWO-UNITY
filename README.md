@@ -1,5 +1,11 @@
 # TASK-TWO-UNITY
 
+Select open project and select the folder generted after downloading the repo from git in unity.
+After the project is open click on play button in the center of unity console.
+
+Below are verious UI elements and steps on how to use the application
+
+
 The User enters the data in text field as shown in figure below.
 ![alt text](https://github.com/SanalLisboa/Project-Images/blob/master/Untitled1.png)
 
